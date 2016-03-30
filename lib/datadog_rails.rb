@@ -1,0 +1,1 @@
+require 'datadog_rails/railtie' if defined?(Rails)
