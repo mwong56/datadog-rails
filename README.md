@@ -47,6 +47,8 @@ end
 | app_name.database.query.time     | 
 | app_name.web.view.time           | 
 
+## 
+
 ## License
 
-Copyright 2016 Mesa Inc. MIT License.
+Copyright 2016 Mesa Inc. Released under the [MIT License](LICENSE).
