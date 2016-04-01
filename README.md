@@ -47,7 +47,12 @@ end
 | app_name.database.query.time     | 
 | app_name.web.view.time           | 
 
-## 
+## Acknowledgments
+
+Thanks to:
+
++ [metova](https://github.com/metova) - [metova/datadoge](https://github.com/metova/datadoge)
++ [mm53bar](https://github.com/mm53bar) - [mm53bar/4674071](https://gist.github.com/mm53bar/4674071)
 
 ## License
 
