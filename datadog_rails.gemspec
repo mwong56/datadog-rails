@@ -5,7 +5,7 @@ require "datadog_rails/version"
 
 # Describe your gem and declare its dependencies:
 Gem::Specification.new do |s|
-  s.name        = "datadog_rails"
+  s.name        = "datadog_rails_v2"
   s.version     = DatadogRails::VERSION
   s.authors     = ["Henrique Menezes"]
   s.email       = ["henrique@mesainc.com.br"]
