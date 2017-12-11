@@ -32,7 +32,7 @@ module DatadogRails
     end
 
     def client
-      @client ||= Statsd.new configuration.dogstatsd_host, configuration.dogstatsd_port
+      @client ||= Datadog::Statsd.new(configuration.dogstatsd_host, configuration.dogstatsd_port)
     end
 
     def send_event_to_statsd(payload)

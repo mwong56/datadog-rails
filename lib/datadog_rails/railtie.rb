@@ -1,5 +1,5 @@
 # Load the dogstats module.
-require 'statsd'
+require 'datadog/statsd'
 
 module DatadogRails
   class Railtie < Rails::Railtie
